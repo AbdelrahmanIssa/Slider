@@ -1,0 +1,34 @@
+body
+{
+    font-family: "segoe ui light";
+}
+
+.item{
+    display:flex;
+    justify-content: center;
+}
+.item-caption
+{   text-align: center;
+    bottom: 10%;
+    width: 80%;
+}
+
+.parentLayer
+{
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.parentLayer .childLayer
+{
+    background-image: url(../images/portfolio-1.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+
+i , img
+{
+    cursor: pointer;
+}
