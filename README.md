@@ -2,7 +2,7 @@
 
 Welcome to my the Slider project! This simple slider is built with HTML, CSS, and JavaScript to create a smooth and interactive image slideshow.
 ##  LiveDemo
-https://cool-naiad-aba475.netlify.app/
+[Slider](https://cool-naiad-aba475.netlify.app/)
 
 ##  Features
 
